@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Websites and apps based on reactjs and react native
 - 📫 You can contact me through my email : f180296@nu.edu.pk
 
-https://github-readme-stats.vercel.app/api?username=codify110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src = "https://github-readme-stats.vercel.app/api?username=codify110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
