@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Salman Ali
-- 👀 I’m interested in Web development, AI and IOT  
-- 🌱 I’m currently learning Mern Stack Development
-- 💞️ I’m looking to collaborate on Websites and apps based on reactjs and react native
+- 👀 I’m interested in Web and app development 
+- 🌱 Goal is to become a Mern Stack Developer
+- 💞️ I’m currently learning front end development
 - 📫 You can contact me through my email : f180296@nu.edu.pk
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codify110)](https://github.com/codify110/github-readme-stats) <img src = "https://github-readme-stats.vercel.app/api?username=codify110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
